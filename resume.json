@@ -3,7 +3,7 @@
 		"name": "Aman Chhawal",
 		"label": "Student",
 		"picture": "https://avatars.githubusercontent.com/u/75774039?s=60&v=4",
-		"email": "2020KUCP1083@IIITKOTA.AC.IN",
+		"email": "2020kucp1083@iiitkota.ac.in",
 		"phone": "8740922407",
 		
 		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.  ",
@@ -39,10 +39,8 @@
 	"education": [{
 		"institution": "Indian Institute of Information Technology,Kota",
 		"area": "Engineering",
-		"studyType": "Bachelor (hons)",
-		"startDate": "2018-12-08",
-		"endDate": "----",
-		"gpa": "1st semester = 7.55",
+		"studyType": "Bachelor",
+		"startDate": "2020-12-02",
 		"courses": [
 			"Computer Science & Engineering"
 		]
